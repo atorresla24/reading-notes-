@@ -6,8 +6,8 @@
 
 1. Go into every new situation with a clear mind and ready to absorb any and all information
 2. I always tell myself "I *can*, I *will*, I *must*!"
-3. >This is one of my most important reminders that I can accomplish anything
-4. If I ever feel to stressed in a situation **walk** away and do something else for a little while
+>This is one of my most important reminders that I can accomplish anything
+3. If I ever feel to stressed in a situation **walk** away and do something else for a little while
  
 # About me
 
