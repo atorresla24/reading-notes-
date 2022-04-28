@@ -15,3 +15,5 @@
 * [Read04](https://atorresla24.github.io/reading-notes4/)
 
 * [Read05](https://atorresla24.github.io/reading-notes5/)
+
+* [Read06](https://atorresla24.github.io/reading-notes6/)
