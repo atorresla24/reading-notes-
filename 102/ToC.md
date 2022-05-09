@@ -24,7 +24,7 @@
 
 # Table of Contents 201
 
-* [Class01]()
+* [Class01](https://atorresla24.github.io/reading-notes201.1/)
 
-* [Class02]()
+* [Class02](https://atorresla24.github.io/reading-notes201.2/)
 
