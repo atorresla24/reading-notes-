@@ -2,11 +2,11 @@
 
 <p>Hello everyone, my name is Alec Torres (he/him) and I live in Spotsylvania, Virginia (EST). I have recently moved to Virginia after leaving college to pursue something different more my pace and style and thought code fellows would be the best option. My operating system is Windows 11. I am excited for this class because it is the start of something new for me and something I am intrigued in pursuing. </p>
 
-# Table of Contents 
+# Table of Contents 102
 
 * [Read01](https://atorresla24.github.io/reading-notes1/)
 
-  -[Lab01](https://atorresla24.github.io/reading-notes-/)
+- [Lab01](https://atorresla24.github.io/reading-notes-/)
 
 * [Read02](https://atorresla24.github.io/reading-notes/)
 
@@ -21,3 +21,6 @@
 * [Read07](https://atorresla24.github.io/reading-notes7/)
 
 * [Read08](https://atorresla24.github.io/reading-notes8/)
+
+# Table of Contents 201
+
