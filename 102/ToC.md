@@ -28,7 +28,7 @@
 
 * [Class02](https://atorresla24.github.io/reading-notes201.2/)
 
-* [Class03]()
+* [Class03](https://atorresla24.github.io/reading-notes201.3/)
 
 * [Class04]()
 
