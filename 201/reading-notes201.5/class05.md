@@ -47,3 +47,8 @@
 * JPEG supports around 16 million colors
 * PNG images support two modes: PNG8(256 colors) and PNG24(16 million colors)
 * GIF images support 256 colors
+
+## Things I want to know more about
+
+* I want to know how to utilize images and how I can merge it with my text to make my site look appealing
+* Also use colors to make my page a lot more colorful
