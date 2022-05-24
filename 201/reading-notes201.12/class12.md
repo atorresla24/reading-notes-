@@ -214,3 +214,6 @@ Baseline alignment setting. Possible values: top, hanging, middle, alphabetic, i
 direction = value
 Directionality. Possible values: ltr, rtl, inherit. The default value is inherit.
 
+## Things I want to know more about
+
+I want to be able to utilize this information to relay information on my websites especially charts
