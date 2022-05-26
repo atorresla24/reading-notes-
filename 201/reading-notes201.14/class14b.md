@@ -20,3 +20,6 @@ Psychological saftey was another key factor in team success
 
 Psychological safety and emotional conversation were in a way connected
 
+## Things I want to know more about
+
+I want to know more about how I can further increase my role in a team and become a stronger fill for my niche in a team
