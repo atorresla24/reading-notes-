@@ -49,3 +49,11 @@
 - It is not possible on succeeding in everything
 - There is relative balance but no such thing as ideal balance
 - Be the author of your own ambition
+
+# Measuring Emotional Intelligence
+
+I scored above an 18 on all aspects except self-management. I can be very observant and understanding of others' situations and actions and know how to appropriately act in response. However, while I can be observant of my own situations and actions I find it difficult to uphold myself to the same response I hold others up to. I will always be harder on myself to be better and configure myself in any way to be better but will never recommend to another person what I would do. I have definitely grown in this aspect but it is still more or less similar to how I have always been.
+
+# Bias Self-Assessment
+
+I have high self awareness, curiosity and courage as stated by the results of my assessment. I tend to understand others and the events that go on around me. While many situations have not happened to me, I am able to see different perspectives and put myself in others situations. I am able to consciously create a simulation that allows me to try and understand a similar scenario and come up with the best routes to take. 
